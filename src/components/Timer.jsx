@@ -16,4 +16,4 @@ export default function Timer({ setStop, questionNumber }) {
   }, [questionNumber]);
   return timer;
 }
-// la ok
+// ok la
